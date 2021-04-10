@@ -10,16 +10,15 @@
 #
 <h3> The following equaution illustrate how to multiply first three prime numbers</h3>
 
-In[5]:
 
-no1 = 3
-no2 = 5
-no3 = 7
+num1 =3
+num2 = 5
+num3 = 7
 
-sum = no1 + no2 + no3 
+# Multiply three prime number
+sum = num1 + num2 + num3
 
-print("sum")
-
+print(sum)
 
 <ul><h3>
  <li>Math</li>
