@@ -21,11 +21,11 @@ sum = no1 + no2 + no3
 print("sum")
 
 
-#<ul>
+<ul><h3>
 # <li>Math</li>
 # <li>Science</li>
 # <li>Art</li>
-#</ul>
+</ul></h3>
 
 #<ol>
 # <li>Math</li>
