@@ -15,7 +15,6 @@ num1 =3
 num2 = 5
 num3 = 7
 
-# Multiply three prime number
 sum = num1 + num2 + num3
 
 print(sum)
