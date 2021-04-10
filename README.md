@@ -10,15 +10,14 @@
 #
 <h3> The following equaution illustrate how to multiply first three prime numbers</h3>
 
-IN[5]
+#IN[5]:
+
 no1 = 3
 no2 = 5
 no3 = 7
 
 sum = no1 + no2 + no3 
 
-#Display the outcome
-#
 print("sum")
 
 
@@ -34,6 +33,4 @@ print("sum")
 # <li>Art</li>
 #</ol>
 
-# <a href="url">link text</a>
 
-#In[]:
