@@ -1,11 +1,13 @@
 
 #<h1>My Jupyter Notebook on IBM Watson Studio
 
+#
 <strong>My name is Nanthawat</strong>
 
-
+#
 <i> I am interested in data science since I would like to apply for master degree in data science.</i>
 
+#
 <h3> The following equaution illustrate how to multiply first three prime numbers</h3>
 
 no1 = 3
