@@ -1,5 +1,5 @@
 
-#<h1>My Jupyter Notebook on IBM Watson Studio
+<h1>My Jupyter Notebook on IBM Watson Studio
 
 #
 <strong>My name is Nanthawat</strong>
@@ -9,9 +9,11 @@
 
 #
 <h3> The following equaution illustrate how to multiply first three prime numbers</h3>
-
+#
 no1 = 3
+#
 no2 = 5
+#
 no3 = 7
 
 #multiply all
