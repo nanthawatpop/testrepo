@@ -9,14 +9,12 @@
 
 #
 <h3> The following equaution illustrate how to multiply first three prime numbers</h3>
-#
+
+IN[5]
 no1 = 3
-#
 no2 = 5
-#
 no3 = 7
 
-#multiply all
 sum = no1 + no2 + no3 
 
 #Display the outcome
